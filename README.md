@@ -6,7 +6,7 @@ to know the structure of this little side project of C++
 
 IDE using VSCode
 
-Project Stucture 
+# Project Stucture 
 
     .vscode __
              |
