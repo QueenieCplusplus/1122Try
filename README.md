@@ -22,3 +22,9 @@ install Plugins
 * Clang Command Adapter
 
 * Code Runner
+
+options : 
+
+Clang
+
+LLVM
