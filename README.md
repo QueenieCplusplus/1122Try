@@ -56,7 +56,7 @@ LLVM
 
 # Code Runner
 
-    [Running] cd "/Users/pintred/Desktop/1125.vscode/" && gcc 1122.c -o 1122 && "/Users/pintred/Desktop/1125.vscode/"1122
+    [Running] cd "~/Desktop/1125.vscode/" && gcc 1122.c -o 1122 && "~/Desktop/1125.vscode/"1122
 
     [Done] exited with code=0 in 0.553 seconds
 
