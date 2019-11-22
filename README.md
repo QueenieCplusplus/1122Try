@@ -1,5 +1,7 @@
 # 1122Try
 
+C++ 之父 Bjarne Stroustrup 曾言：『放鬆讓自己進入語言的世界，旅程開始時，不要認為您會使用所有的特色，也不用企圖一開始就使用所有的特色。』
+
 Lets have a big smil & start on a quick, simple, easy hand-on journey in C++!
 
 to know the structure of this little side project of C++
