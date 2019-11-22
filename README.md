@@ -1,6 +1,8 @@
 # 1122Try
 to know the structure of this little side project of C++
 
+IDE using VSCode
+
 Project Stucture 
 
     .vscode __
