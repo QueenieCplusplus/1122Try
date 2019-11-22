@@ -4,7 +4,7 @@ Lets have a big smil & start on a quick, simple, easy hand-on journey in C++!
 
 to know the structure of this little side project of C++
 
-IDE using VSCode (Apple Xcode is alternative.)
+IDE using VSCode (Apple Xcode is alternative, due to C++ & Clang installed in its IDE)
 
 # Project Stucture 
 
