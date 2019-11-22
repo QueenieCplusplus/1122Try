@@ -1,4 +1,7 @@
 # 1122Try
+
+Lets have a big smil & start on a quick, simple, easy hand-on journey in C++!
+
 to know the structure of this little side project of C++
 
 IDE using VSCode
