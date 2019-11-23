@@ -8,6 +8,10 @@ to know the structure of this little side project of C++
 
 IDE using VSCode (Apple Xcode is alternative, due to C++ & Clang installed in its IDE)
 
+# Start with a Function
+
+    int main() { } // 最小最小的 c++ 程式碼了
+
 # Project Stucture 
 
     .vscode __
