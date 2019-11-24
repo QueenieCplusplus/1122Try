@@ -18,11 +18,11 @@ using Plugin calls "Code Runner".
 
     .vscode __
              |
-             |__  1122.c
+             |__  1122.c (source file)
              |
-             |__ c_cpp_properties.json
+             |__ c_cpp_properties.json (required)
              |
-             |__ launch.json
+             |__ launch.json (required)
              |
              |__ setting.json （options）
              |
