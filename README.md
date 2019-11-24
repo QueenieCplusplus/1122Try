@@ -14,6 +14,8 @@ IDE using VSCode (Apple Xcode is alternative, due to C++ & Clang installed in it
 
 # Project Stucture 
 
+using Plugin calls "Code Runner".
+
     .vscode __
              |
              |__  1122.c
@@ -22,9 +24,9 @@ IDE using VSCode (Apple Xcode is alternative, due to C++ & Clang installed in it
              |
              |__ launch.json
              |
-             |__ setting.json
+             |__ setting.json （options）
              |
-             |__ tasks.json
+             |__ tasks.json (options)
              
 install Plugins
 
